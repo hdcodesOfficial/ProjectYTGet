@@ -1,9 +1,10 @@
-### there are better fish in the sea.
+### Discontinued -- there are better fish in the sea.
 you could use Parabolic with yt-dlp or any other GUI instead of YTGet.  
 YTGet is not as advanced as yt-dlp and may not work with the current YT Captcha Verification.  
 you can still download YTGet but i will not guarantee the working of it.  
-**I might discontinue this project soon**, switch to an alternative if you're using YTGet.  
-im sorry for any inconvenience caused.  
+**This project has been discontinued** : i don't have time to manage and maintain this project especially due to the above reasons.  
+Im just a rookie and my simple projects wont compare to other top level YT Downloaders.  
+Just take a look at [This Reddit Post](https://www.reddit.com/r/coding/s/h4N3uLH3Mc) .
 
 # ProjectYTGet
 A Simple YouTube Downloader In Python With pytube.  
